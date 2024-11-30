@@ -8,4 +8,5 @@
 #--platform=linux/arm64 mysql:8.4.3
 #--platform=linux/arm64 redis:6.2.6
 #--platform=linux/arm64 ffdfgdfg/npc
---platform=linux/arm64 postgres:17.2-alphine
+#--platform=linux/arm64 postgres:17.2-alpine
+--platform=linux/arm64 openresty/openresty:1.21.4.3-3-3-focal
